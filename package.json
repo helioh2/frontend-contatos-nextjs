@@ -1,0 +1,27 @@
+{
+  "name": "frontend-contatos-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helioh2/frontend-contatos-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helioh2/frontend-contatos-nextjs/issues"
+  },
+  "homepage": "https://github.com/helioh2/frontend-contatos-nextjs#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "next": "^12.2.4",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0"
+  }
+}
